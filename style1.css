@@ -1,0 +1,28 @@
+@font-face {
+  font-family: DarkGraffiti;
+  src: url(DarkGraffiti.ttf);
+}
+
+@font-face {
+  font-family: royal;
+  src: url(royal.ttf);
+}
+
+
+body {
+  background-image: url('paperplane.png');
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+}
+
+h1 {
+  font-family:DarkGraffiti;
+  color:black;
+  font-size; 500%
+}
+
+p{
+	 font-family:verdana;
+	 color:black;
+}
